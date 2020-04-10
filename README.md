@@ -1,4 +1,4 @@
-# project-1-tlwilliams895
+# Employee Reimbursement System (Project 1)
 Employee Reimbursement System
 
 Executive Summary:
